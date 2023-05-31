@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Smania Matias\Desktop\contadorBoludos\dist\contadorBoludos.jar</jar>
+  <outfile>C:\Users\Smania Matias\Desktop\contadorBoludos\dist\ContadorBoludos.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Smania Matias\Desktop\ICONOS\logo-1276044964-1666573792-8d73d8b81b52be27861794aceba2bc411666573792.ico</icon>
+  <jre>
+    <path>jre1.8.0_111</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0_111</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
